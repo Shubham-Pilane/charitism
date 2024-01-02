@@ -68,6 +68,9 @@ This document provides an overview of the API routes for the User and Todo funct
 1) npm install
 2) node index.js (Server will start locally)
 
-## This server is deployed as well 
+## This server is deployed as well on Render
+** we can test all routes using deployed link **
+
+Base url : https://charitism.onrender.com/
 
 
